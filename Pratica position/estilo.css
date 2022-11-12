@@ -1,0 +1,39 @@
+.container {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background-color: #77f;
+    margin: 100px auto;
+}
+div div {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: auto;
+    font-size: 30px;
+    position: absolute;
+    background-color: #f00;
+    width: 100px;
+    height: 100px;
+    padding-top: 25px;
+    text-align:center;
+}
+.caja1 {
+}
+.caja2 {
+    right: 0;
+
+}
+.caja3 {
+    right: 0;
+    bottom: 0;
+}
+.caja4 {
+    bottom: 0;
+}
+.caja5 {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
