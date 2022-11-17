@@ -43,7 +43,7 @@
     border-radius: 5px;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 900px) {
     .container {
     grid-template: 
     "header header" 100px
